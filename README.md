@@ -1,4 +1,7 @@
-# AdvancedProfileRyan
+# Code Quiz Project
+![Screenshot](image.png)
+https://ryanofmordor.github.io/Code_Quiz/
+
 for this project we had to bulid a code quiz that 
 GIVEN I am taking a code quiz
 WHEN I click the start button
